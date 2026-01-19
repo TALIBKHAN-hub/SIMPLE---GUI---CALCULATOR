@@ -68,7 +68,7 @@ python Calculator.py
 
 -----------------------------------------
 ## AUTHOR:
-### MADE BY TALIB
+- MADE BY TALIB
 
 -----------------------------------------
 ## LICENSE:
@@ -81,5 +81,6 @@ if you like this project:
 - Fork it
 
 - Share it with others
+
 
 
