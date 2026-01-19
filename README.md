@@ -1,4 +1,4 @@
-#Talib SIMPLE GUI CALCULATOR (CustomTkinter)
+##Talib SIMPLE GUI CALCULATOR (CustomTkinter)
 
 A modern, stylish desktop calculator application built
 using **Python** and **CustomTkinter**.
@@ -78,4 +78,5 @@ python Calculator.py
 if you like this project:
 - Star the Repository
 - Fork it
+
 - Share it with others
