@@ -28,6 +28,7 @@ and real-time expression evaluation.
     <img src="screenshot/calculator.png" alt="Talib Calculator" width="450">
 </p>
 ---------------------------------------
+
 ## Technologies Used
 - Python 3
 - CustomTkinter 
@@ -80,4 +81,5 @@ if you like this project:
 - Fork it
 
 - Share it with others
+
 
